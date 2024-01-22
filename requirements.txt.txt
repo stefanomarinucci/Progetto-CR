@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+io
+os
+pdfplumber
+matplotlib
+seaborn
+datetime
+locale
+re
